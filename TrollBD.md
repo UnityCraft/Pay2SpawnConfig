@@ -6,11 +6,9 @@ Budget:
 | ----- | ------ |
 | $1.00 | Random Item |
 | $1.25 | Turns it to Day time |
-- Random Item                                                             $1.00
-- Turns it to Day Time                                                    $1.25
-- Turn it to Night Time                                                   $1.30
-- Kick Streamer from Server                                               $1.50
-- Random Weather Change                                                   $2.-
+| $1.30 | Turns it to Night time |
+| $1.50 | Kick stramer from server |
+| $2.00 | Random Weather Change |
 
 
 Helpful:
